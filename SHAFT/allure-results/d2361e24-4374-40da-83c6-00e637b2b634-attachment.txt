@@ -1,0 +1,22 @@
+
+################################################################################################################################################
+Starting Execution:	"1 out of 2" test cases in the current suite
+Test Method:		"SHAFT.testing.TestCases.Registration"
+################################################################################################################################################
+[ReportManager] Click "ACCOUNT". @23-07-2022 23:45:31.0248 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612730440_Registration_click_passed" @23-07-2022 23:45:31.0315 PM
+[ReportManager] Type "Noura". @23-07-2022 23:45:33.0804 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612733466_Registration_Type_passed" @23-07-2022 23:45:33.0812 PM
+[ReportManager] Type "hussein". @23-07-2022 23:45:35.0051 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612734769_Registration_Type_passed" @23-07-2022 23:45:35.0059 PM
+[ReportManager] Type "nn919@gmail.com". @23-07-2022 23:45:36.0288 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612736026_Registration_Type_passed" @23-07-2022 23:45:36.0293 PM
+[ReportManager] Type "123456". @23-07-2022 23:45:37.0455 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612737206_Registration_Type_passed" @23-07-2022 23:45:37.0461 PM
+[ReportManager] Type "123456". @23-07-2022 23:45:38.0572 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612738322_Registration_Type_passed" @23-07-2022 23:45:38.0579 PM
+[ReportManager] Click "1". @23-07-2022 23:45:39.0720 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612739398_Registration_click_passed" @23-07-2022 23:45:39.0726 PM
+[ReportManager] Click "REGISTER". @23-07-2022 23:45:42.0653 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612740540_Registration_click_passed" @23-07-2022 23:45:42.0660 PM
+[ReportManager] Get text "Thank you for registering with Madison Island.". @23-07-2022 23:45:42.0739 PM

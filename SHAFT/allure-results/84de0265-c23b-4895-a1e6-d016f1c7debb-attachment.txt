@@ -1,0 +1,16 @@
+
+################################################################################################################################################
+Starting Execution:	"2 out of 2" test cases in the current suite
+Test Method:		"SHAFT.testing.TestCases.AddItemToShoppingcart"
+################################################################################################################################################
+[ReportManager] Type "nn919@gmail.com". @23-07-2022 23:45:48.0034 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612747689_AddItemToShoppingcart_Type_passed" @23-07-2022 23:45:48.0046 PM
+[ReportManager] Type "123456". @23-07-2022 23:45:49.0394 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612749143_AddItemToShoppingcart_Type_passed" @23-07-2022 23:45:49.0403 PM
+[ReportManager] Click "LOGIN". @23-07-2022 23:45:51.0912 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612750384_AddItemToShoppingcart_click_passed" @23-07-2022 23:45:51.0924 PM
+[ReportManager] Hover. @23-07-2022 23:45:53.0479 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612753040_AddItemToShoppingcart_Hover_passed" @23-07-2022 23:45:53.0488 PM
+[ReportManager] Get text "WOMEN". @23-07-2022 23:45:53.0548 PM
+[ReportManager] Click "VIEW DETAILS". @23-07-2022 23:45:58.0065 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612755920_AddItemToShoppingcart_click_passed" @23-07-2022 23:45:58.0073 PM

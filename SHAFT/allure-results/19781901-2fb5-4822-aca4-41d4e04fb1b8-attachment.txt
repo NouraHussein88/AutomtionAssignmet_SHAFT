@@ -1,0 +1,4 @@
+[ReportManager] Target URL: "http://magento-demo.lexiconn.com/" @23-07-2022 23:45:43.0644 PM
+[ReportManager] Initial URL: "http://magento-demo.lexiconn.com/customer/account/logoutSuccess" @23-07-2022 23:45:43.0679 PM
+[ReportManager] Navigate to url "http://magento-demo.lexiconn.com/". @23-07-2022 23:45:46.0009 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612745218_beforMethod_Navigate to url_passed" @23-07-2022 23:45:46.0025 PM

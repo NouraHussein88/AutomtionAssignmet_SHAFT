@@ -1,0 +1,4 @@
+[ReportManager] Target URL: "http://magento-demo.lexiconn.com/" @23-07-2022 23:45:22.0330 PM
+[ReportManager] Initial URL: "data:," @23-07-2022 23:45:22.0408 PM
+[ReportManager] Navigate to url "http://magento-demo.lexiconn.com/". @23-07-2022 23:45:28.0090 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612726393_beforMethod_Navigate to url_passed" @23-07-2022 23:45:28.0104 PM

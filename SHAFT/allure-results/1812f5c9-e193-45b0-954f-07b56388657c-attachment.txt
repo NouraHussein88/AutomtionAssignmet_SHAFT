@@ -1,0 +1,64 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: "SHAFT Engine v6.2.20220624"
+################################################################################################################################################
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/downloadedFiles/"". @23-07-2022 23:45:18.0164 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/target/downloadedFiles/"". @23-07-2022 23:45:18.0165 PM
+[ReportManager] Attempting to run locally on: "Windows-64 | GoogleChrome". @23-07-2022 23:45:18.0201 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @23-07-2022 23:45:18.0201 PM
+[ReportManager] Successfully Opened Google Chrome. @23-07-2022 23:45:20.0994 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/ExcelTestData.xlsx"". @23-07-2022 23:45:21.0390 PM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/ExcelTestData.xlsx". @23-07-2022 23:45:22.0287 PM
+[ReportManager] Successfully created attachment "Test Data - Excel" @23-07-2022 23:45:22.0294 PM
+[ReportManager] Target URL: "http://magento-demo.lexiconn.com/" @23-07-2022 23:45:22.0330 PM
+[ReportManager] Initial URL: "data:," @23-07-2022 23:45:22.0408 PM
+[ReportManager] Navigate to url "http://magento-demo.lexiconn.com/". @23-07-2022 23:45:28.0090 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612726393_beforMethod_Navigate to url_passed" @23-07-2022 23:45:28.0104 PM
+
+################################################################################################################################################
+Starting Execution:	"1 out of 2" test cases in the current suite
+Test Method:		"SHAFT.testing.TestCases.Registration"
+################################################################################################################################################
+[ReportManager] Click "ACCOUNT". @23-07-2022 23:45:31.0248 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612730440_Registration_click_passed" @23-07-2022 23:45:31.0315 PM
+[ReportManager] Type "Noura". @23-07-2022 23:45:33.0804 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612733466_Registration_Type_passed" @23-07-2022 23:45:33.0812 PM
+[ReportManager] Type "hussein". @23-07-2022 23:45:35.0051 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612734769_Registration_Type_passed" @23-07-2022 23:45:35.0059 PM
+[ReportManager] Type "nn919@gmail.com". @23-07-2022 23:45:36.0288 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612736026_Registration_Type_passed" @23-07-2022 23:45:36.0293 PM
+[ReportManager] Type "123456". @23-07-2022 23:45:37.0455 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612737206_Registration_Type_passed" @23-07-2022 23:45:37.0461 PM
+[ReportManager] Type "123456". @23-07-2022 23:45:38.0572 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612738322_Registration_Type_passed" @23-07-2022 23:45:38.0579 PM
+[ReportManager] Click "1". @23-07-2022 23:45:39.0720 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612739398_Registration_click_passed" @23-07-2022 23:45:39.0726 PM
+[ReportManager] Click "REGISTER". @23-07-2022 23:45:42.0653 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612740540_Registration_click_passed" @23-07-2022 23:45:42.0660 PM
+[ReportManager] Get text "Thank you for registering with Madison Island.". @23-07-2022 23:45:42.0739 PM
+[ReportManager] Target URL: "http://magento-demo.lexiconn.com/" @23-07-2022 23:45:43.0644 PM
+[ReportManager] Initial URL: "http://magento-demo.lexiconn.com/customer/account/logoutSuccess" @23-07-2022 23:45:43.0679 PM
+[ReportManager] Navigate to url "http://magento-demo.lexiconn.com/". @23-07-2022 23:45:46.0009 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612745218_beforMethod_Navigate to url_passed" @23-07-2022 23:45:46.0025 PM
+
+################################################################################################################################################
+Starting Execution:	"2 out of 2" test cases in the current suite
+Test Method:		"SHAFT.testing.TestCases.AddItemToShoppingcart"
+################################################################################################################################################
+[ReportManager] Type "nn919@gmail.com". @23-07-2022 23:45:48.0034 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612747689_AddItemToShoppingcart_Type_passed" @23-07-2022 23:45:48.0046 PM
+[ReportManager] Type "123456". @23-07-2022 23:45:49.0394 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612749143_AddItemToShoppingcart_Type_passed" @23-07-2022 23:45:49.0403 PM
+[ReportManager] Click "LOGIN". @23-07-2022 23:45:51.0912 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612750384_AddItemToShoppingcart_click_passed" @23-07-2022 23:45:51.0924 PM
+[ReportManager] Hover. @23-07-2022 23:45:53.0479 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612753040_AddItemToShoppingcart_Hover_passed" @23-07-2022 23:45:53.0488 PM
+[ReportManager] Get text "WOMEN". @23-07-2022 23:45:53.0548 PM
+[ReportManager] Click "VIEW DETAILS". @23-07-2022 23:45:58.0065 PM
+[ReportManager] Successfully created attachment "Screenshot - 1658612755920_AddItemToShoppingcart_click_passed" @23-07-2022 23:45:58.0073 PM
+
+[ReportManager] Successfully created attachment "SHAFT Engine Logs - Execution log" @23-07-2022 23:46:17.0246 PM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: "SHAFT Engine v6.2.20220624"
+SHAFT Engine is licensed under the MIT License: [https://github.com/ShaftHQ/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################

@@ -1,0 +1,111 @@
+Manifest-Version: 1.0
+Created-By: Maven JAR Plugin 3.2.2
+Build-Jdk-Spec: 17
+Class-Path: testng-7.6.0.jar jsr305-3.0.2.jar slf4j-api-1.7.36.jar jcomm
+ ander-1.82.jar jquery-3.6.0.jar selenium-java-4.3.0.jar selenium-api-4.
+ 3.0.jar selenium-chrome-driver-4.3.0.jar auto-service-annotations-1.0.1
+ .jar selenium-chromium-driver-4.3.0.jar selenium-json-4.3.0.jar seleniu
+ m-devtools-v101-4.3.0.jar selenium-devtools-v102-4.3.0.jar selenium-dev
+ tools-v103-4.3.0.jar selenium-devtools-v85-4.3.0.jar selenium-edge-driv
+ er-4.3.0.jar selenium-firefox-driver-4.3.0.jar selenium-ie-driver-4.3.0
+ .jar selenium-opera-driver-4.3.0.jar selenium-remote-driver-4.3.0.jar n
+ etty-codec-http-4.1.78.Final.jar netty-transport-classes-epoll-4.1.78.F
+ inal.jar netty-transport-classes-kqueue-4.1.78.Final.jar netty-transpor
+ t-native-epoll-4.1.78.Final.jar netty-transport-native-kqueue-4.1.78.Fi
+ nal.jar opentelemetry-api-1.15.0.jar opentelemetry-context-1.15.0.jar o
+ pentelemetry-exporter-logging-1.15.0.jar opentelemetry-sdk-metrics-1.15
+ .0.jar opentelemetry-sdk-logs-1.15.0-alpha.jar opentelemetry-sdk-common
+ -1.15.0.jar opentelemetry-sdk-extension-autoconfigure-spi-1.15.0.jar op
+ entelemetry-sdk-extension-autoconfigure-1.15.0-alpha.jar opentelemetry-
+ sdk-trace-1.15.0.jar opentelemetry-sdk-1.15.0.jar opentelemetry-semconv
+ -1.15.0-alpha.jar jtoml-2.0.0.jar byte-buddy-1.12.10.jar async-http-cli
+ ent-2.12.3.jar async-http-client-netty-utils-2.12.3.jar netty-codec-soc
+ ks-4.1.60.Final.jar netty-handler-proxy-4.1.60.Final.jar netty-transpor
+ t-native-epoll-4.1.60.Final-linux-x86_64.jar netty-transport-native-kqu
+ eue-4.1.60.Final-osx-x86_64.jar netty-reactive-streams-2.0.4.jar jakart
+ a.activation-1.2.2.jar selenium-http-4.3.0.jar failsafe-3.2.4.jar selen
+ ium-safari-driver-4.3.0.jar selenium-support-4.3.0.jar netty-handler-4.
+ 1.78.Final.jar netty-common-4.1.78.Final.jar netty-resolver-4.1.78.Fina
+ l.jar netty-buffer-4.1.78.Final.jar netty-transport-4.1.78.Final.jar ne
+ tty-transport-native-unix-common-4.1.78.Final.jar netty-codec-4.1.78.Fi
+ nal.jar healenium-web-3.2.5.jar config-1.4.2.jar tree-comparing-0.4.10.
+ jar jsoup-1.11.3.jar commons-text-1.6.jar jackson-databind-2.13.1.jar j
+ ackson-annotations-2.13.1.jar commons-lang3-3.12.0.jar commons-codec-1.
+ 15.jar okhttp-4.9.3.jar okio-2.8.0.jar kotlin-stdlib-common-1.4.0.jar k
+ otlin-stdlib-1.4.10.jar annotations-23.0.0.jar mapstruct-1.4.2.Final.ja
+ r streamex-0.8.1.jar mapstruct-processor-1.4.2.Final.jar playwright-1.2
+ 2.0.jar gson-2.8.6.jar opentest4j-1.2.0.jar driver-1.22.0.jar driver-bu
+ ndle-1.22.0.jar java-client-8.1.1.jar cglib-3.3.0.jar asm-7.1.jar commo
+ ns-validator-1.7.jar commons-beanutils-1.9.4.jar commons-digester-2.1.j
+ ar commons-collections-3.2.2.jar commons-io-2.11.0.jar eyes-images-java
+ 4-4.14.0.jar eyes-common-java4-4.14.0.jar imgscalr-lib-4.2.jar ph-css-6
+ .1.1.jar ph-commons-9.0.2.jar eyes-sdk-core-java4-4.14.0.jar eyes-conne
+ ctivity-java4-jersey2x-4.14.0.jar jersey-apache-connector-2.16.jar jers
+ ey-common-2.16.jar javax.annotation-api-1.2.jar jersey-guava-2.16.jar o
+ sgi-resource-locator-1.0.1.jar javax.ws.rs-api-2.0.1.jar jersey-client-
+ 2.16.jar hk2-api-2.4.0-b09.jar hk2-utils-2.4.0-b09.jar aopalliance-repa
+ ckaged-2.4.0-b09.jar javax.inject-2.4.0-b09.jar hk2-locator-2.4.0-b09.j
+ ar opencv-4.5.1-2.jar sikulixapi-2.0.5.jar jython-slim-2.7.2.jar antlr-
+ 3.5.2.jar ST4-4.0.8.jar javax.servlet-api-3.1.0.jar antlr-runtime-3.5.2
+ .jar bcpkix-jdk15on-1.62.jar bcprov-jdk15on-1.62.jar asm-commons-7.1.ja
+ r asm-tree-7.1.jar asm-analysis-7.1.jar asm-util-7.1.jar icu4j-59.1.jar
+  java-sizeof-0.0.5.jar jffi-1.2.20.jar jnr-netdb-1.1.6.jar jnr-ffi-2.1.
+ 10.jar jffi-1.2.19-native.jar jnr-a64asm-1.0.0.jar jnr-x86asm-1.0.2.jar
+  jnr-posix-3.0.50.jar jnr-constants-0.9.12.jar jline-2.14.5.jar ant-1.9
+ .7.jar ant-launcher-1.9.7.jar sikulix2tigervnc-1.1.4.jar commons-cli-1.
+ 4.jar commons-exec-1.3.jar jna-platform-5.6.0.jar jna-5.6.0.jar reflect
+ ions8-0.11.6.jar javassist-3.22.0-GA.jar tess4j-4.5.4.jar jai-imageio-c
+ ore-1.4.0.jar ghost4j-1.0.1.jar xmlgraphics-commons-1.4.jar itext-2.1.7
+ .jar pdfbox-tools-2.0.21.jar pdfbox-debugger-2.0.21.jar jbig2-imageio-3
+ .0.3.jar lept4j-1.13.2.jar jboss-vfs-3.2.15.Final.jar jboss-logging-3.1
+ .4.GA.jar py4j-0.10.9.1.jar webdrivermanager-5.2.0.jar docker-java-3.2.
+ 13.jar docker-java-core-3.2.13.jar docker-java-api-3.2.13.jar jcl-over-
+ slf4j-1.7.30.jar docker-java-transport-httpclient5-3.2.13.jar docker-ja
+ va-transport-3.2.13.jar dec-0.1.2.jar httpclient5-5.1.3.jar httpcore5-5
+ .1.3.jar httpcore5-h2-5.1.3.jar poi-5.2.2.jar commons-collections4-4.4.
+ jar commons-math3-3.6.1.jar SparseBitSet-1.2.jar log4j-api-2.17.2.jar p
+ oi-ooxml-5.2.2.jar poi-ooxml-lite-5.2.2.jar xmlbeans-5.0.3.jar commons-
+ compress-1.21.jar curvesapi-1.07.jar allure-testng-2.18.1.jar allure-ja
+ va-commons-2.18.1.jar allure-model-2.18.1.jar allure-test-filter-2.18.1
+ .jar allure-cucumber7-jvm-2.18.1.jar gherkin-23.0.1.jar messages-18.0.0
+ .jar aspectjweaver-1.9.9.1.jar extentreports-5.0.9.jar rxjava-3.0.4.jar
+  reactive-streams-1.0.3.jar freemarker-2.3.30.jar pdfbox-2.0.26.jar fon
+ tbox-2.0.26.jar commons-logging-1.2.jar rest-assured-5.1.1.jar groovy-4
+ .0.1.jar groovy-xml-4.0.1.jar httpclient-4.5.13.jar httpcore-4.4.13.jar
+  httpmime-4.5.13.jar hamcrest-2.1.jar tagsoup-1.2.1.jar json-path-5.1.1
+ .jar groovy-json-4.0.1.jar rest-assured-common-5.1.1.jar xml-path-5.1.1
+ .jar json-simple-1.1.1.jar jsonassert-1.5.0.jar android-json-0.0.201311
+ 08.vaadin1.jar mime-util-2.1.3.jar json-schema-validator-5.1.1.jar json
+ -schema-validator-2.2.14.jar jackson-coreutils-equivalence-1.0.jar jack
+ son-coreutils-2.0.jar msg-simple-1.2.jar btf-1.3.jar json-schema-core-1
+ .2.14.jar uri-template-0.10.jar rhino-1.7.7.2.jar mailapi-1.6.2.jar jod
+ a-time-2.10.5.jar libphonenumber-8.11.1.jar jopt-simple-5.0.4.jar jsch-
+ 0.1.55.jar mysql-connector-java-8.0.29.jar protobuf-java-3.19.4.jar mss
+ ql-jdbc-9.4.1.jre16-preview.jar postgresql-9.1-901-1.jdbc4.jar db2jcc-d
+ b2jcc4.jar cucumber-java-7.4.1.jar cucumber-core-7.4.1.jar cucumber-ghe
+ rkin-7.4.1.jar cucumber-gherkin-messages-7.4.1.jar tag-expressions-4.1.
+ 0.jar cucumber-expressions-16.0.0.jar datatable-7.4.1.jar cucumber-plug
+ in-7.4.1.jar docstring-7.4.1.jar html-formatter-19.2.0.jar ci-environme
+ nt-9.0.4.jar apiguardian-api-1.1.2.jar cucumber-testng-7.4.1.jar cucumb
+ er-picocontainer-7.4.1.jar picocontainer-2.15.jar jave-all-deps-3.3.1.j
+ ar jave-core-3.3.1.jar jave-nativebin-win32-3.3.1.jar jave-nativebin-wi
+ n64-3.3.1.jar jave-nativebin-linux32-3.3.1.jar jave-nativebin-linux64-3
+ .3.1.jar jave-nativebin-osx64-3.3.1.jar jave-nativebin-osxm1-3.3.1.jar 
+ jave-nativebin-linux-arm32-3.3.1.jar jave-nativebin-linux-arm64-3.3.1.j
+ ar video-recorder-testng-2.0.jar video-recorder-core-2.0.jar owner-java
+ 8-1.0.10.jar owner-1.0.10.jar zt-exec-1.10.jar awaitility-3.1.6.jar ham
+ crest-library-1.3.jar hamcrest-core-1.3.jar objenesis-2.6.jar json-2018
+ 0813.jar slf4j-simple-1.7.36.jar log4j-over-slf4j-1.7.36.jar guava-31.1
+ -jre.jar failureaccess-1.0.1.jar listenablefuture-9999.0-empty-to-avoid
+ -conflict-with-guava.jar checker-qual-3.12.0.jar error_prone_annotation
+ s-2.11.0.jar j2objc-annotations-1.3.jar lombok-1.18.24.jar selenium-shu
+ tterbug-1.6.jar java-semver-0.9.0.jar tink-1.6.1.jar tink-awskms-1.6.1.
+ jar aws-java-sdk-core-1.11.976.jar ion-java-1.0.2.jar aws-java-sdk-kms-
+ 1.11.976.jar jmespath-java-1.11.976.jar jackson-core-2.12.1.jar jackson
+ -dataformat-cbor-2.12.1.jar auto-service-1.0-rc7.jar auto-common-0.10.j
+ ar tink-gcpkms-1.6.1.jar google-api-client-1.31.4.jar google-oauth-clie
+ nt-1.31.5.jar google-http-client-gson-1.39.2.jar google-http-client-apa
+ che-v2-1.39.2.jar google-http-client-1.39.2.jar opencensus-api-0.28.0.j
+ ar grpc-context-1.27.2.jar opencensus-contrib-http-util-0.28.0.jar goog
+ le-api-services-cloudkms-v1-rev108-1.25.0.jar
+
